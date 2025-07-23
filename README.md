@@ -6,7 +6,7 @@ A tool to scan and analyze the ingredient lists on food packets, identifying pot
 - Extracts ingredient lists from food packet images or text input.
 - Detects non-vegetarian additives and allergens.
 - Provides a clear report of ingredients for dietary preferences.
-- Helps users make informed choices about the ramen they consume.
+- Helps users make informed choices about the food they consume.
 
 ## How It Works
 
@@ -20,4 +20,4 @@ A tool to scan and analyze the ingredient lists on food packets, identifying pot
 - Python FLASK
 - OCR (Optical Character Recognition) libraries (Tesseract)
 - NLP libraries (TextBlob)
-- Frontend- HTML, CSS Javascript 
+- Frontend- HTML, CSS, JavaScript 
