@@ -1,4 +1,4 @@
-FOOD PACKET INGREDIENT ANALYZER
+## FOOD PACKET INGREDIENT ANALYZER
 A tool to scan and analyze the ingredient lists on food packets, identifying potential non-vegetarian additives and other ingredients of interest.
 
 ## Features
